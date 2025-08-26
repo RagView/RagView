@@ -14,3 +14,7 @@ We are a small, passion-driven team. While our technical expertise may not be ex
 Here’s our GitHub repository: https://github.com/ragview
 
 The project is still under development, and we look forward to your attention and support!
+
+https://discord.gg/np5ejCuQ
+
+https://www.reddit.com/r/Rag_View/
