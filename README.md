@@ -15,6 +15,8 @@ Here’s our GitHub repository: https://github.com/ragview
 
 The project is still under development, and we look forward to your attention and support!
 
-https://discord.gg/np5ejCuQ
+OUR DISCORD
+[https://discord.gg/np5ejCuQ](https://discord.gg/DCVuEk6M)
 
+OUR REDDIT
 https://www.reddit.com/r/Rag_View/
