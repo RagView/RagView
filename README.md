@@ -40,3 +40,4 @@ Legend:
 | 8 | trustgraph | [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) | Next-generation AI product creation platform with context engineering and LLM orchestration; supports API and private deployment. | ❌ |
 | 9 | graphiti | [getzep/graphiti](https://github.com/getzep/graphiti) | Real-time knowledge graph builder for AI agents, supporting enterprise-grade applications. | ❌ |
 | 10 | DocsGPT | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | Private AI platform supporting Agent building, deep research, document analysis, multi-model support, and API integration. | 🚧 |
+| 11 | youtu-graphrag | [youtugraph/youtu-graphrag](https://github.com/youtugraph/youtu-graphrag) | Graph-based RAG framework from Tencent Youtu Lab, focusing on knowledge graph construction and reasoning for domain-specific applications. | ❌ |
