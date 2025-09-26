@@ -30,14 +30,15 @@ Legend:
 | No. | Name | GitHub Link | Features | Status |
 |-----|------|-------------|----------|--------|
 | 0 | Langflow | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Build, scale, and deploy RAG and multi-agent AI apps.But we use it to build a naive RAG.  | ✅ |
-| 1 | R2R | [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) | SoTA production-grade RAG system with Agentic RAG architecture and RESTful API support. | ❌ |
+| 1 | R2R | [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) | SoTA production-grade RAG system with Agentic RAG architecture and RESTful API support. | ✅ |
 | 2 | KAG | [OpenSPG/KAG](https://github.com/OpenSPG/KAG) | Retrieval framework combining OpenSPG engine and LLM, using logical forms for guided reasoning; overcomes traditional vector similarity limitations; supports domain-specific QA. | ❌ |
 | 3 | GraphRAG | [microsoft/graphrag](https://github.com/microsoft/graphrag) | Modular graph-based retrieval RAG system from Microsoft. | 🚧 |
 | 4 | LightRAG | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | "Simple and Fast Retrieval-Augmented Generation," designed for simplicity and speed. | 🚧 |
-| 5 | dsRAG | [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG) | High-performance retrieval engine for unstructured data, suitable for complex queries and dense text. | ✅ |
+| 5 | dsRAG | [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG) | High-performance retrieval engine for unstructured data, suitable for complex queries and dense text. | 🚧 |
 | 6 | paper-qa | [Future-House/paper-qa](https://github.com/Future-House/paper-qa) | Scientific literature QA system with citation support and high accuracy. | ❌ |
 | 7 | cognee | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Lightweight memory management for AI agents ("Memory for AI Agents in 5 lines of code"). | ❌ |
 | 8 | trustgraph | [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) | Next-generation AI product creation platform with context engineering and LLM orchestration; supports API and private deployment. | ❌ |
 | 9 | graphiti | [getzep/graphiti](https://github.com/getzep/graphiti) | Real-time knowledge graph builder for AI agents, supporting enterprise-grade applications. | ❌ |
-| 10 | DocsGPT | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | Private AI platform supporting Agent building, deep research, document analysis, multi-model support, and API integration. | 🚧 |
+| 10 | DocsGPT | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | Private AI platform supporting Agent building, deep research, document analysis, multi-model support, and API integration. | ✅ |
 | 11 | youtu-graphrag | [youtugraph/youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag) | Graph-based RAG framework from Tencent Youtu Lab, focusing on knowledge graph construction and reasoning for domain-specific applications. | ❌ |
+| 12 | Kiln | [https://github.com/Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) | Desktop app for zero-code fine-tuning, evals, synthetic data, and built-in RAG tools. | ❌ |
