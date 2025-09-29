@@ -15,6 +15,9 @@ Here’s our GitHub repository: https://github.com/ragview
 
 The project is still under development, and we look forward to your attention and support!
 
+OUR YOUTUBE
+https://www.youtube.com/watch?v=OH5shXKnnsM
+
 OUR DISCORD
 [https://discord.gg/np5ejCuQ](https://discord.gg/DCVuEk6M)
 
