@@ -45,4 +45,4 @@ Legend:
 | 10 | DocsGPT | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | Private AI platform supporting Agent building, deep research, document analysis, multi-model support, and API integration. | ✅ |
 | 11 | youtu-graphrag | [youtugraph/youtu-graphrag](https://github.com/TencentCloudADP/youtu-graphrag) | Graph-based RAG framework from Tencent Youtu Lab, focusing on knowledge graph construction and reasoning for domain-specific applications. | ⏳ |
 | 12 | Kiln | [https://github.com/Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) | Desktop app for zero-code fine-tuning, evals, synthetic data, and built-in RAG tools. | ⏳ |
-| 13 | Quivr | [https://github.com/Kiln-AI/Kiln](https://github.com/QuivrHQ/quivr) |a RAG that is opinionated, fast and efficient so you can focus on your product. | ⏳ |
+| 13 | Quivr | [https://github.com/QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) |a RAG that is opinionated, fast and efficient so you can focus on your product. | ⏳ |
