@@ -1,8 +1,6 @@
 
 <img width="2768" height="684" alt="标准色logo白底_画板 1" src="https://github.com/user-attachments/assets/d93a0136-acb1-4ac0-8538-163a905c3912" />
 
-# RagView Documentation Center
-
 ## Why RagView?
 
 As RAG technology continues to evolve, there are now nearly 60 distinct approaches, reflecting a stage of diversity and rapid experimentation. Depending on the scenario, different RAG solutions may yield significantly different outcomes in terms of recall rate, accuracy, and F1 score. Beyond accuracy, enterprises and individual developers must also weigh factors such as computational cost, performance, framework maturity, and scalability. However, there is currently no unified platform that consolidates and compares these RAG technologies. Developers and enterprises are often forced to download open-source code, deploy systems independently, and run manual evaluations—an inefficient and costly process.  
