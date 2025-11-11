@@ -149,7 +149,7 @@ Answer: We plan to support this in future versions. See our milestone plan (link
 Answer: We have currently integrated R2R, LangFlow, and DocsGPT. In the future, we plan to add 1–2 new RAG schemes each week, depending on the availability and stability of open-source code. See our roadmap (link) for more details.
 
 11. How can I contact you?  
-Answer: You can contact us via email: <EMAIL>.
+Answer: You can contact us via email: <EMAIL>ragandview@gmail.com</EMAIL>
 
 ## RagView Milestone Plan
 
