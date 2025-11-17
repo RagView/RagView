@@ -177,7 +177,7 @@ Legend:
 | 0 | Langflow | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Build, scale, and deploy RAG and multi-agent AI apps.But we use it to build a naive RAG.  | ✅ |
 | 1 | R2R | [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) | SoTA production-grade RAG system with Agentic RAG architecture and RESTful API support. | ✅ |
 | 2 | KAG | [OpenSPG/KAG](https://github.com/OpenSPG/KAG) | Retrieval framework combining OpenSPG engine and LLM, using logical forms for guided reasoning; overcomes traditional vector similarity limitations; supports domain-specific QA. | ⏳ |
-| 3 | GraphRAG | [microsoft/graphrag](https://github.com/microsoft/graphrag) | Modular graph-based retrieval RAG system from Microsoft. | 🚧 |
+| 3 | GraphRAG | [microsoft/graphrag](https://github.com/microsoft/graphrag) | Modular graph-based retrieval RAG system from Microsoft. | ✅ |
 | 4 | LightRAG | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | "Simple and Fast Retrieval-Augmented Generation," designed for simplicity and speed. | ✅ |
 | 5 | dsRAG | [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG) | High-performance retrieval engine for unstructured data, suitable for complex queries and dense text. | 🚧 |
 | 6 | paper-qa | [Future-House/paper-qa](https://github.com/Future-House/paper-qa) | Scientific literature QA system with citation support and high accuracy. | ⏳ |
