@@ -1,5 +1,8 @@
-
-<img width="2768" height="684" alt="标准色logo白底_画板 1" src="https://github.com/user-attachments/assets/d93a0136-acb1-4ac0-8538-163a905c3912" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c67129dd-1990-454b-a17c-d66c11946cbf">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d93a0136-acb1-4ac0-8538-163a905c3912">
+  <img alt="Demo" src="https://github.com/user-attachments/assets/c67129dd-1990-454b-a17c-d66c11946cbf">
+</picture>
 
 ## Why RagView?
 
