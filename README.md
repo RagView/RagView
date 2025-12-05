@@ -1,8 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c67129dd-1990-454b-a17c-d66c11946cbf">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d93a0136-acb1-4ac0-8538-163a905c3912">
-  <img alt="Demo" src="https://github.com/user-attachments/assets/c67129dd-1990-454b-a17c-d66c11946cbf">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/31f78c10-ee6b-49df-ba94-66c30efa4717">
+  <img alt="Demo" src="https://github.com/user-attachments/assets/31f78c10-ee6b-49df-ba94-66c30efa4717">
 </picture>
+
 
 ## Why RagView?
 
